@@ -1,2 +1,2 @@
 # UniversalChatSpam
-Lightweight c++ spammer, hardcoded to spam the word noob
+Lightweight c++ spam macro, hardcoded to spam the word noob
